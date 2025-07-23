@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "721476257314",
+    "project_id": "safestreet-2d076",
+    "storage_bucket": "safestreet-2d076.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721476257314:android:a7cdd06c2fd51a50ee2c7b",
+        "android_client_info": {
+          "package_name": "com.example.safe_street1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721476257314-lpcaa00tauo18e2lmn0piqko8vd3425k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASNOHuoKyYT-8Ebo-hfXB11sxCkr1mPig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721476257314-lpcaa00tauo18e2lmn0piqko8vd3425k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721476257314:android:7cf0070480eb0654ee2c7b",
+        "android_client_info": {
+          "package_name": "com.example.safestreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721476257314-hgs0d995am9l455n7mkklfocn9q1kaju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safestreet",
+            "certificate_hash": "ff900ee2f2c90705b2c0a048fda4012a84066ea0"
+          }
+        },
+        {
+          "client_id": "721476257314-lpcaa00tauo18e2lmn0piqko8vd3425k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASNOHuoKyYT-8Ebo-hfXB11sxCkr1mPig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721476257314-lpcaa00tauo18e2lmn0piqko8vd3425k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

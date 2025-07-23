@@ -1,0 +1,2 @@
+C:/Users/SREDHA/StudioProjects/safestreet/android/app/.cxx/Debug/3e4w3b6x/x86/CMakeFiles/edit_cache.dir
+C:/Users/SREDHA/StudioProjects/safestreet/android/app/.cxx/Debug/3e4w3b6x/x86/CMakeFiles/rebuild_cache.dir
